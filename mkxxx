@@ -159,6 +159,331 @@ http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=880238&e
 #EXTINF:0,group-title="DOKUMENTALNE", TVP HISTORIA 2 HD
 http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1121743&extension=ts&play_token=jUtvWuxrBs&sn2=
 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/tvp1.png" group-title="CANAL+ ONLINE ROZRYWKA",TVP 1
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691150&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/tvp2.png" group-title="CANAL+ ONLINE ROZRYWKA",TVP 2
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691149&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/tvp3.png" group-title="CANAL+ ONLINE ROZRYWKA",TVP 3
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691148&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/tvn.png" group-title="CANAL+ ONLINE ROZRYWKA",TVN
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691147&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/tvn24.png" group-title="CANAL+ ONLINE ROZRYWKA",TVN 24
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691146&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/tvn24bis.png" group-title="CANAL+ ONLINE ROZRYWKA",TVN 24 BIS
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691145&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/tvnstyle.png" group-title="CANAL+ ONLINE ROZRYWKA",TVN STYLE
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691144&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/tvnturbo.png" group-title="CANAL+ ONLINE ROZRYWKA",TVN TURBO
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691143&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/hbo.png" group-title="CANAL+ ONLINE ROZRYWKA",HBO
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691142&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/hbo2.png" group-title="CANAL+ ONLINE ROZRYWKA",HBO 2
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691141&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/hbo3.png" group-title="CANAL+ ONLINE ROZRYWKA",HBO 3
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691140&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/canalplusnow.png" group-title="CANAL+ ONLINE ROZRYWKA",CANAL+ NOW
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691139&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/canalpluspremiumhd.png" group-title="CANAL+ ONLINE ROZRYWKA",CANAL+ PREMIUM
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691138&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/canalplusseriale.png" group-title="CANAL+ ONLINE ROZRYWKA",CANAL+ SERIALE
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691137&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/canalplusfilm.png" group-title="CANAL+ ONLINE ROZRYWKA",CANAL+ FILM
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691136&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/canalpluskuchnia.png" group-title="CANAL+ ONLINE ROZRYWKA",CANAL+ KUCHNIA
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691135&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/canalplusdomo.png" group-title="CANAL+ ONLINE ROZRYWKA",CANAL+ DOMO
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691134&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/canalplusdokumenthd.png" group-title="CANAL+ ONLINE ROZRYWKA",CANAL+ DOKUMENT
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691133&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/polsat.png" group-title="CANAL+ ONLINE ROZRYWKA",POLSAT
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691132&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/polsat2.png" group-title="CANAL+ ONLINE ROZRYWKA",POLSAT 2
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691131&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/polsatcafe.png" group-title="CANAL+ ONLINE ROZRYWKA",POLSAT CAFE
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691130&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://51.158.145.100/picons/logos/logos/polsatcrimeandinvestigation.png" group-title="CANAL+ ONLINE ROZRYWKA",POLSAT CRIME & INVESTIGATION
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691129&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/polsatgames.png" group-title="CANAL+ ONLINE ROZRYWKA",POLSAT GAMES
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691128&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/polsatjimjam.png" group-title="CANAL+ ONLINE ROZRYWKA",POLSAT JIM JAM
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691127&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/polsatnews.png" group-title="CANAL+ ONLINE ROZRYWKA",POLSAT NEWS
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691126&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/polsatnews2.png" group-title="CANAL+ ONLINE ROZRYWKA",POLSAT NEWS 2
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691125&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/polsatplay.png" group-title="CANAL+ ONLINE ROZRYWKA",POLSAT PLAY
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691124&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/filmboxaction.png" group-title="CANAL+ ONLINE ROZRYWKA",FILMBOX ACTION
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691123&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/filmboxarthouse.png" group-title="CANAL+ ONLINE ROZRYWKA",FILMBOX ARTHOUSE
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691122&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/filmboxextra.png" group-title="CANAL+ ONLINE ROZRYWKA",FILMBOX EXTRA
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691121&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/filmboxfamily.png" group-title="CANAL+ ONLINE ROZRYWKA",FILMBOX FAMILY
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691120&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/filmboxpremium.png" group-title="CANAL+ ONLINE ROZRYWKA",FILMBOX PREMIUM
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691119&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/13ulicahd.png" group-title="CANAL+ ONLINE ROZRYWKA",13 ULICA
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691118&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/4fundance.png" group-title="CANAL+ ONLINE ROZRYWKA",4FUN DANCE
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691117&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/4funkids.png" group-title="CANAL+ ONLINE ROZRYWKA",4FUN KIDS
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691116&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/4funtv.png" group-title="CANAL+ ONLINE ROZRYWKA",4FUN.TV
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691115&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/alekinoplus.png" group-title="CANAL+ ONLINE ROZRYWKA",ALE KINO+
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691114&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/alfatv.png" group-title="CANAL+ ONLINE ROZRYWKA",Alfa TVP
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691113&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/axnblack.png" group-title="CANAL+ ONLINE ROZRYWKA",AXN BLACK
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691112&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/axn.png" group-title="CANAL+ ONLINE ROZRYWKA",AXN
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691111&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/axnspin.png" group-title="CANAL+ ONLINE ROZRYWKA",AXN SPIN
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691110&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/axnwhite.png" group-title="CANAL+ ONLINE ROZRYWKA",AXN WHITE
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691109&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/bbcbrit.png" group-title="CANAL+ ONLINE ROZRYWKA",BBC BRIT
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691108&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/bbcearth.png" group-title="CANAL+ ONLINE ROZRYWKA",BBC EARTH
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691107&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/bbclifestyle.png" group-title="CANAL+ ONLINE ROZRYWKA",BBC LIFESTYLE
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691106&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/bbcnews.png" group-title="CANAL+ ONLINE ROZRYWKA",BBC NEWS
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691105&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/biznes24.png" group-title="CANAL+ ONLINE ROZRYWKA",BIZNES24 TV
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691104&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/bloombergeuropeantv.png" group-title="CANAL+ ONLINE ROZRYWKA",BLOOMBERG EUROPEAN TV
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691103&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/cartoonnetwork.png" group-title="CANAL+ ONLINE ROZRYWKA",CARTOON NETWORK
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691102&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/cbeebies.png" group-title="CANAL+ ONLINE ROZRYWKA",CBEE BIES
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691101&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/cbseuropa.png" group-title="CANAL+ ONLINE ROZRYWKA",CBS EUROPA
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691100&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/cbsreality.png" group-title="CANAL+ ONLINE ROZRYWKA",CBS REALITY
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691099&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/cinemax.png" group-title="CANAL+ ONLINE ROZRYWKA",CINEMAX
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691098&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/cinemax2.png" group-title="CANAL+ ONLINE ROZRYWKA",CINEMAX 2
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691097&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/cnbceurope.png" group-title="CANAL+ ONLINE ROZRYWKA",CNBC EUROPE
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691096&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/cnn.png" group-title="CANAL+ ONLINE ROZRYWKA",CNN
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691095&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/comedycentral.png" group-title="CANAL+ ONLINE ROZRYWKA",COMEDY CENTRAL
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691094&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/deutschewelle.png" group-title="CANAL+ ONLINE ROZRYWKA",DEUTSCHE WELLE
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691093&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/discopolomusic.png" group-title="CANAL+ ONLINE ROZRYWKA",DISCO POLO MUSIC
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691092&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/discovery.png" group-title="CANAL+ ONLINE ROZRYWKA",DISCOVERY
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691091&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/discoveryhistoria.png" group-title="CANAL+ ONLINE ROZRYWKA",DISCOVERY HISTORIA
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691090&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/discoverylife.png" group-title="CANAL+ ONLINE ROZRYWKA",DISCOVERY LIFE
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691089&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/disneychannel.png" group-title="CANAL+ ONLINE ROZRYWKA",DISNEY CHANNEL
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691088&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/disneyjunior.png" group-title="CANAL+ ONLINE ROZRYWKA",DISNEY JUNIOR
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691087&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/disneyxd.png" group-title="CANAL+ ONLINE ROZRYWKA",DISNEY XD
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691086&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/eentertainment.png" group-title="CANAL+ ONLINE ROZRYWKA",E! ENTERTAINMENT
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691085&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/eskarock.png" group-title="CANAL+ ONLINE ROZRYWKA",ESKA ROCK TV
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691084&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/eskatvextra.png" group-title="CANAL+ ONLINE ROZRYWKA",ESKA TV EXTRA
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691083&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/eskatv.png" group-title="CANAL+ ONLINE ROZRYWKA",ESKA TV
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691082&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/euronews.png" group-title="CANAL+ ONLINE ROZRYWKA",EURO NEWS
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691081&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/foodnetwork.png" group-title="CANAL+ ONLINE ROZRYWKA",FOOD NETWORK
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691080&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/france24eng.png" group-title="CANAL+ ONLINE ROZRYWKA",FRANCE 24 ENG
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691079&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/france24francais.png" group-title="CANAL+ ONLINE ROZRYWKA",FRANCE 24 FRA
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691078&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/fxhd.png" group-title="CANAL+ ONLINE ROZRYWKA",FX
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691077&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://51.158.145.100/picons/logos/logos/FX-COMEDY.png" group-title="CANAL+ ONLINE ROZRYWKA",FX COMEDY
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691076&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/hgtv.png" group-title="CANAL+ ONLINE ROZRYWKA",HGTV
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691075&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/history2.png" group-title="CANAL+ ONLINE ROZRYWKA",HISTORY 2
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691074&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/history.png" group-title="CANAL+ ONLINE ROZRYWKA",HISTORY
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691073&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/id.png" group-title="CANAL+ ONLINE ROZRYWKA",ID PLAND
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691072&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/kinopolska.png" group-title="CANAL+ ONLINE ROZRYWKA",KINO POLSKA
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691071&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/kinopolskamuzyka.png" group-title="CANAL+ ONLINE ROZRYWKA",KINO POLSKA MUZYKA
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691070&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/kinotv.png" group-title="CANAL+ ONLINE ROZRYWKA",KINO TV
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691069&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/metro.png" group-title="CANAL+ ONLINE ROZRYWKA",METRO TV
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691068&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/miniminiplus.png" group-title="CANAL+ ONLINE ROZRYWKA",MINIMINI+
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691067&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/mtv00s.png" group-title="CANAL+ ONLINE ROZRYWKA",MTV 00s
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691066&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/mtv90s.png" group-title="CANAL+ ONLINE ROZRYWKA",MTV 90s
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691065&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/mtvpolska.png" group-title="CANAL+ ONLINE ROZRYWKA",MTV POLSKA
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691064&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/natgeopeople.png" group-title="CANAL+ ONLINE ROZRYWKA",NAT GEO PEOPLE
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691063&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/nationalgeographic.png" group-title="CANAL+ ONLINE ROZRYWKA",NATIONAL GEOGRAPHIC
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691062&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/nationalgeographicwild.png" group-title="CANAL+ ONLINE ROZRYWKA",NATIONAL GEOGRAPHIC WILD
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691061&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/nhkworldjapan.png" group-title="CANAL+ ONLINE ROZRYWKA",NHK WORLD-JAPAN
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691060&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/nickelodeon.png" group-title="CANAL+ ONLINE ROZRYWKA",NICKELODEON
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691059&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/novelasplus.png" group-title="CANAL+ ONLINE ROZRYWKA",NOVELAS+
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691058&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/nutatv.png" group-title="CANAL+ ONLINE ROZRYWKA",NUTA.TV
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691057&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/paramountnetworkpolska.png" group-title="CANAL+ ONLINE ROZRYWKA",PARAMOUNT NETWORK POLSKA
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691056&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/planeteplus.png" group-title="CANAL+ ONLINE ROZRYWKA",PLANETE+
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691055&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/polotv.png" group-title="CANAL+ ONLINE ROZRYWKA",POLO TV
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691054&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/powertv.png" group-title="CANAL+ ONLINE ROZRYWKA",POWER TV
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691053&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/puls2.png" group-title="CANAL+ ONLINE ROZRYWKA",PULS 2
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691052&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/romancetv.png" group-title="CANAL+ ONLINE ROZRYWKA",ROMANCE TV
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691051&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/scifi.png" group-title="CANAL+ ONLINE ROZRYWKA",SCI FI
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691050&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://51.158.145.100/picons/logos/logos/SEJM-RP.png" group-title="CANAL+ ONLINE ROZRYWKA",SEJM RP
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691049&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/starstv.png" group-title="CANAL+ ONLINE ROZRYWKA",STARS TV
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691048&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/stopklatkatv.png" group-title="CANAL+ ONLINE ROZRYWKA",STOPKLATKA TV
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691047&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/teennick.png" group-title="CANAL+ ONLINE ROZRYWKA",TEEN NICK
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691046&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/teletoonplus.png" group-title="CANAL+ ONLINE ROZRYWKA",TELETOON+
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691045&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/tlc.png" group-title="CANAL+ ONLINE ROZRYWKA",TLC
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691044&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/travelchannel.png" group-title="CANAL+ ONLINE ROZRYWKA",TRAVEL CHANNEL
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691043&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/tvpuls.png" group-title="CANAL+ ONLINE ROZRYWKA",TV PULS
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691042&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/tvrepublika.png" group-title="CANAL+ ONLINE ROZRYWKA",TV REPUBLIKA
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691041&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/tv4.png" group-title="CANAL+ ONLINE ROZRYWKA",TV4
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691040&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://51.158.145.100/picons/logos/logos/TVP-ABC-2.png" group-title="CANAL+ ONLINE ROZRYWKA",TVP ABC 2
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691039&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/tvphistoria.png" group-title="CANAL+ ONLINE ROZRYWKA",TVP HISTORIA 2
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691038&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/tvpinfo.png" group-title="CANAL+ ONLINE ROZRYWKA",TVP INFO
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691037&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/tvpkultura.png" group-title="CANAL+ ONLINE ROZRYWKA",TVP KULTURA 2
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691036&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/tvpseriale.png" group-title="CANAL+ ONLINE ROZRYWKA",TVP SERIALE
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691035&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://51.158.145.100/picons/logos/logos/TVP-WORLD.png" group-title="CANAL+ ONLINE ROZRYWKA",TVP WORLD
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691034&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://51.158.145.100/picons/logos/logos/TVP-3-BIALYSTOK.png" group-title="CANAL+ ONLINE ROZRYWKA",TVP 3 BIALYSTOK
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691033&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://51.158.145.100/picons/logos/logos/TVP-3-BYDGOSZCZ.png" group-title="CANAL+ ONLINE ROZRYWKA",TVP 3 BYDGOSZCZ
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691032&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://51.158.145.100/picons/logos/logos/TVP-3-GDANSK.png" group-title="CANAL+ ONLINE ROZRYWKA",TVP 3 GDANSK
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691031&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://51.158.145.100/picons/logos/logos/TVP-3-GORZ%c3%93W-WIELKOPOLSKI.png" group-title="CANAL+ ONLINE ROZRYWKA",TVP 3 GORZÓW WIELKOPOLSKI
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691030&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://51.158.145.100/picons/logos/logos/TVP-3-KATOWICE.png" group-title="CANAL+ ONLINE ROZRYWKA",TVP 3 KATOWICE
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691029&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://51.158.145.100/picons/logos/logos/TVP-3-KIELCE.png" group-title="CANAL+ ONLINE ROZRYWKA",TVP 3 KIELCE
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691028&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://51.158.145.100/picons/logos/logos/TVP-3-KRAKOW.png" group-title="CANAL+ ONLINE ROZRYWKA",TVP 3 KRAKÓW
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691027&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://51.158.145.100/picons/logos/logos/TVP-3-LUBLIN.png" group-title="CANAL+ ONLINE ROZRYWKA",TVP 3 LUBLIN
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691026&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://51.158.145.100/picons/logos/logos/TVP-3-LODZ.png" group-title="CANAL+ ONLINE ROZRYWKA",TVP 3 LÓDZ
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691025&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://51.158.145.100/picons/logos/logos/TVP-3-OLSZTYN.png" group-title="CANAL+ ONLINE ROZRYWKA",TVP 3 OLSZTYN
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691024&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://51.158.145.100/picons/logos/logos/TVP-3-OPOLE.png" group-title="CANAL+ ONLINE ROZRYWKA",TVP 3 OPOLE
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691023&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://51.158.145.100/picons/logos/logos/TVP-3-POZNAN.png" group-title="CANAL+ ONLINE ROZRYWKA",TVP 3 POZNAN
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691022&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://51.158.145.100/picons/logos/logos/TVP-3-RZESZOW.png" group-title="CANAL+ ONLINE ROZRYWKA",TVP 3 RZESZÓW
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691021&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://51.158.145.100/picons/logos/logos/TVP-3-SZCZECIN.png" group-title="CANAL+ ONLINE ROZRYWKA",TVP 3 SZCZECIN
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691020&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://51.158.145.100/picons/logos/logos/TVP-3-WROCLAW.png" group-title="CANAL+ ONLINE ROZRYWKA",TVP 3 WROCLAW
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691019&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/voxmusic.png" group-title="CANAL+ ONLINE ROZRYWKA",VOX MUSIC TV
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691018&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/warnertv.png" group-title="CANAL+ ONLINE ROZRYWKA",WARNER TV
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691017&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/wp.png" group-title="CANAL+ ONLINE ROZRYWKA",WP
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691016&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/zoom.png" group-title="CANAL+ ONLINE ROZRYWKA",ZOOM TV
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691015&extension=ts&sn2=
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://51.158.145.100/picons/logos/logos/canalplus.png" group-title="CANAL+ ONLINE SPORT",CANAL+ EVENT 1
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691176&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://51.158.145.100/picons/logos/logos/canalplus.png" group-title="CANAL+ ONLINE SPORT",CANAL+ EVENT 2
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691175&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://51.158.145.100/picons/logos/logos/canalplus.png" group-title="CANAL+ ONLINE SPORT",CANAL+ EVENT 3
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691174&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://51.158.145.100/picons/logos/logos/canalplus.png" group-title="CANAL+ ONLINE SPORT",CANAL+ EVENT 4
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691173&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://51.158.145.100/picons/logos/logos/CANAL-PLUS-360.png" group-title="CANAL+ ONLINE SPORT",CANAL+ 360
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691172&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://51.158.145.100/picons/logos/logos/canalplus.png" group-title="CANAL+ ONLINE SPORT",CANAL+ EXTRA 1
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691171&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://51.158.145.100/picons/logos/logos/canalplus.png" group-title="CANAL+ ONLINE SPORT",CANAL+ EXTRA 2
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691170&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://51.158.145.100/picons/logos/logos/canalplus.png" group-title="CANAL+ ONLINE SPORT",CANAL+ EXTRA 3
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691169&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://51.158.145.100/picons/logos/logos/canalplus.png" group-title="CANAL+ ONLINE SPORT",CANAL+ EXTRA 4
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691168&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/canalplus.png" group-title="CANAL+ ONLINE SPORT",CANAL+ EXTRA 5
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691167&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://51.158.145.100/picons/logos/logos/CANAL-PLUS-EXTRA-6.png" group-title="CANAL+ ONLINE SPORT",CANAL+ EXTRA 6
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691166&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://51.158.145.100/picons/logos/logos/CANAL-PLUS-EXTRA-7.png" group-title="CANAL+ ONLINE SPORT",CANAL+ EXTRA 7
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691165&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/canalplussport.png" group-title="CANAL+ ONLINE SPORT",CANAL+ SPORT 1
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691164&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/canalplussport2.png" group-title="CANAL+ ONLINE SPORT",CANAL+ SPORT 2
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691163&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/canalplussport3hd.png" group-title="CANAL+ ONLINE SPORT",CANAL+ SPORT 3
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691162&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/canalplussport4hd.png" group-title="CANAL+ ONLINE SPORT",CANAL+ SPORT 4
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691161&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/canalplussport5hd.png" group-title="CANAL+ ONLINE SPORT",CANAL+ SPORT 5
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691160&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/elevensports1.png" group-title="CANAL+ ONLINE SPORT",ELEVEN SPORTS 1
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691159&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/elevensports2.png" group-title="CANAL+ ONLINE SPORT",ELEVEN SPORTS 2
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691158&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/elevensports3.png" group-title="CANAL+ ONLINE SPORT",ELEVEN SPORTS 3
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691157&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/elevensports4.png" group-title="CANAL+ ONLINE SPORT",ELEVEN SPORTS 4
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691156&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/tvpsport.png" group-title="CANAL+ ONLINE SPORT",TVP SPORT
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691155&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/eurosport1.png" group-title="CANAL+ ONLINE SPORT",EUROSPORT 1
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691154&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/eurosport2.png" group-title="CANAL+ ONLINE SPORT",EUROSPORT 2
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1691153&extension=ts&sn2=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/piconsnew/fightklub.png" group-title="CANAL+ ONLINE SPORT",FIGHT KLUB
+#EXTINF:0,group-title="SPORTOWE", CANAL+ SPORT 1
+http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:d8:2f:57&stream=880321&extension=ts&play_token=A3z6ipjxt6&sn2=
+
 #EXTINF:0,group-title="SPORTOWE", ELEVEN SPORTS 1
 http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1498959&extension=ts&play_token=QGHKCZicvJ&sn2=
 #EXTINF:0,group-title="SPORTOWE", ELEVEN SPORTS 1 4K
@@ -175,8 +500,6 @@ http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=880316&e
 http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=880455&extension=ts&play_token=SURQPADmHU&sn2=
 #EXTINF:0,group-title="SPORTOWE", EUROSPORT 1 FHD
 http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=880453&extension=ts&play_token=0rzvLbKZnL&sn2=
-#EXTINF:0,group-title="SPORTOWE", CANAL+ EXTRA 7
-http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=1664290&extension=ts&play_token=H4OEGQvLdp&sn2=
 #EXTINF:0,group-title="SPORTOWE", POLSAT SPORT 1 FHD
 http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=880471&extension=ts&play_token=YI3xfZZQLW&sn2=
 #EXTINF:0,group-title="SPORTOWE", POLSAT SPORT 1 HD
@@ -1432,7 +1755,7 @@ http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=773999&e
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - BRAZZERS TV EUROPE TV
 http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=131891&extension=ts&play_token=CK6tMcJbjy
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="FOR ADULTS",XXX - VENUS TV
-http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=774000&extension=ts&play_token=CK6tMcJbjy
+http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=77400&extension=ts&play_token=CK6tMcJbjy
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - porn 8
 http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=131892&extension=ts&play_token=CK6tMcJbjy
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - PINK O CLUB (H)
