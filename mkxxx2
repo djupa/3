@@ -882,3 +882,7 @@ https://stream.zooview.tv/memfs/npgrej2b_720.m3u8
 https://stream.zooview.tv/memfs/pxd2c11u_720.m3u8
 #EXTINF:-1 group-title="World Cam",USA - Пингвины
 https://stream.zooview.tv/memfs/j8tpt8et_1920.m3u8
+#EXTINF:-1 group-title="World Cam",test1
+https://youtu.be/Cp4RRAEgpeU
+#EXTINF:-1 group-title="World Cam",test2
+https://www.youtube.com/live/Cp4RRAEgpeU?si=WFbjFJKuHtvO2PUm
