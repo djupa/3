@@ -1,4 +1,17 @@
 #EXTM3U
+#EXTINF:-1 group-title="178.219.128.68",HBO
+http://178.219.128.68:64888/HBOHD
+#EXTINF:-1 group-title="178.219.128.68",HBO 2
+http://178.219.128.68:64888/HBO2HD
+#EXTINF:-1 group-title="178.219.128.68",HBO 3
+http://178.219.128.68:64888/HBO3HD
+#EXTINF:-1 group-title="178.219.128.68",CINEMAX HD
+http://178.219.128.68:64888/CINEMAHD
+#EXTINF:-1 group-title="178.219.128.68",CINEMAX 2 HD
+http://178.219.128.68:64889/CINEMAX2HD
+
+
+
 #EXTINF:-1 group-title="World Cam",Tropical Murphy's Cam Thailand
 https://youtu.be/Cp4RRAEgpeU
 #EXTINF:-1 group-title="World Cam",Tropical Murphy's Cam Thailand
@@ -13,51 +26,3 @@ https://youtube.com/Cp4RRAEgpeU
 https://youtu.be/embed/Cp4RRAEgpeU
 #EXTINF:-1 group-title="World Cam",Tropical Murphy's Cam Thailand
 https://youtu.be/watch?v=Cp4RRAEgpeU
-#EXTINF:-1 group-title="World Cam",Tropical Murphy's Cam Thailand
-https://youtu.be/embed/MG8aoZQuhzk
-#EXTINF:-1 group-title="World Cam",TENERIFE AIRPORT
-https://youtu.be/embed/dyCxFZgrGXw
-#EXTINF:-1 group-title="World Cam",TENERIFE AIRPORT 2
-https://youtu.be/embed/AAlo3eCPVbk
-#EXTINF:-1 group-title="World Cam",PUERTO del CARMEN BEACH Lanzarote
-https://youtu.be/embed/2RS-12YQVI4
-#EXTINF:-1 group-title="World Cam",FUERTEVENTURA AIRPORT
-https://youtu.be/embed/JMFFi4Ma5M4
-#EXTINF:-1 group-title="World Cam",LANZAROTE CRUISE SHIP DOCK
-https://youtu.be/embed/AkszDPeVaVg
-#EXTINF:-1 group-title="World Cam",Niagara Falls
-https://youtu.be/embed/W3D3dEpR3bs
-#EXTINF:-1 group-title="World Cam",Mulberry Little Italy NYC
-https://youtu.be/embed/x-Ec7tN7yXk
-#EXTINF:-1 group-title="World Cam",Herald Square NYC
-https://youtu.be/embed/tua7of0Dtp0
-#EXTINF:-1 group-title="World Cam",NYC Live Cam
-https://youtu.be/embed/83VPsAPWiME
-#EXTINF:-1 group-title="World Cam",Chicago Skydeck
-https://youtu.be/embed/sQxL8t0gtu8
-#EXTINF:-1 group-title="World Cam",Rio de Janeiro
-https://youtu.be/embed/bwQyNMjsG3k
-#EXTINF:-1 group-title="World Cam",Seaside Heights NJ
-https://youtu.be/embed/FpkJ6hwJmic
-#EXTINF:-1 group-title="World Cam",Sydney
-https://youtu.be/embed/5uZa3-RMFos
-#EXTINF:-1 group-title="World Cam",Tokio Spacer
-https://youtu.be/embed/cH7VBI4QQzA
-#EXTINF:-1 group-title="World Cam",Bank of America Winter Village SkateCam
-https://youtu.be/embed/VVBU63T23j8
-#EXTINF:-1 group-title="World Cam",Times Square 1560 Broadway View Live
-https://youtu.be/embed/4qyZLflp-sI
-#EXTINF:-1 group-title="World Cam",Las Vegas Aerie View Live
-https://youtu.be/embed/jtvmwjzZY0c
-#EXTINF:-1 group-title="World Cam",BOY SAYONG AGDAO DAVAO CITY PHILIPPINES
-https://youtu.be/embed/gwSO8WXTtNc
-#EXTINF:-1 group-title="World Cam",Yellowstone National Park
-https://youtu.be/embed/SGO66WWTanQ
-#EXTINF:-1 group-title="World Cam",Crystal Bay Yacht Club Thailand 
-https://youtu.be/embed/5FNI26lPfgE
-#EXTINF:-1 group-title="World Cam",Brazilian Seaside
-https://youtu.be/embed/hNETVAoQ2OE
-#EXTINF:-1 group-title="World Cam",Rhodes Island Greece
-https://youtu.be/embed/WTarrTbsS2Q
-#EXTINF:-1 group-title="World Cam",World famous Plane Beach
-https://youtu.be/embed/LtzkkAeW_Qg
