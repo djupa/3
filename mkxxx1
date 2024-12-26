@@ -9,8 +9,6 @@ http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=411453&e
 http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=833392&extension=ts&play_token=DBr8mPcXDF
 #EXTINF:-1 group-title="DE Allgemeine Kanäle" tvg-country="DE" channelId="3561",RTLZWEI HD
 http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=411448&extension=ts&play_token=mmRy2r5lzU
-#EXTINF:-1 group-title="DE Allgemeine Kanäle" tvg-country="DE" channelId="3561",RTL UP HD
-http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=411323&extension=ts&play_token=Y7pj7ZJFcw
 #EXTINF:-1 group-title="DE Allgemeine Kanäle" tvg-country="DE",RTL NITRO HD
 http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=411610&extension=ts&play_token=OybQBRFcfT
 #EXTINF:-1 group-title="DE Allgemeine Kanäle" tvg-country="DE" channelId="2748",RTL CRIME
@@ -21,8 +19,6 @@ http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=411627&e
 http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=411626&extension=ts&play_token=dIRxmfeQUz
 #EXTINF:-1 group-title="DE Allgemeine Kanäle" tvg-country="DE" channelId="965",PROSIEBEN
 http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=411452&extension=ts&play_token=khsEiPUIfo
-#EXTINF:-1 group-title="DE Allgemeine Kanäle" tvg-country="DE" channelId="965",PRO7
-http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=692605&extension=ts&play_token=yfQHg17Uqj
 #EXTINF:-1 group-title="DE Allgemeine Kanäle" tvg-country="DE" channelId="1478",PROSIEBEN MAXX
 http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=411451&extension=ts&play_token=qgFREmFI6s
 #EXTINF:-1 group-title="DE Allgemeine Kanäle" tvg-country="DE" channelId="3303",PROSIEBEN FUN HD
@@ -43,8 +39,6 @@ http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=411447&e
 http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=411785&extension=ts&play_token=RxNJMVG8us
 #EXTINF:-1 group-title="DE Allgemeine Kanäle" tvg-country="DE" channelId="966",VOX HD
 http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=411614&extension=ts&play_token=36lKUudL5a
-#EXTINF:-1 group-title="DE Allgemeine Kanäle" tvg-country="DE" channelId="4625",VOXUP SD
-http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=411325&extension=ts&play_token=vXjxSSzNky
 #EXTINF:-1 group-title="DE Allgemeine Kanäle" tvg-country="DE" channelId="4625",VOXUP
 http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=757228&extension=ts&play_token=wMQb0yF1Vm
 #EXTINF:-1 group-title="DE Allgemeine Kanäle" tvg-country="DE" channelId="938",TELE 5 HD
