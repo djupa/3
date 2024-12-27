@@ -1,4 +1,22 @@
 #EXTM3U
+#EXTINF:-1 group-title="World Cam" group-title="World Cam",Wunderschönes Deutschland 
+https://www.youtube.com/watch?v=Li3Dvqlo5uE
+#EXTINF:-1 group-title="World Cam" group-title="World Cam",Wunderschönes Deutschland 
+https://youtu.be/Li3Dvqlo5uE
+#EXTINF:-1 group-title="World Cam" group-title="World Cam",Wunderschönes Deutschland 
+https://www.youtube.com/live/Li3Dvqlo5uE?si=USX8b1hoxRionuF8
+#EXTINF:-1 group-title="World Cam" group-title="World Cam",Wunderschönes Deutschland 
+https://youtu.be/embed/Li3Dvqlo5uE
+#EXTINF:-1 tvg-country="PL" group-title="Polska TV",HBO 
+http://109.233.89.170/HBO_HD/mono.m3u8
+#EXTINF:-1 tvg-country="PL" group-title="Polska TV",HBO 2
+http://109.233.89.170/HBO_2_HD/mono.m3u8
+#EXTINF:-1 tvg-country="PL" group-title="Polska TV",HBO 3
+http://109.233.89.170/HBO_3_HD/mono.m3u8
+#EXTINF:-1 tvg-country="PL" group-title="Polska TV",Cinemax  
+http://109.233.89.170/CINEMAX_HD/mono.m3u8
+#EXTINF:-1 tvg-country="PL" group-title="Polska TV",Cinemax 2 
+http://109.233.89.170/CINEMAX_2_HD/mono.m3u8
 #EXTINF:-1 group-title="DE Allgemeine Kanäle" tvg-country="DE" channelId="94",DAS ERSTE
 http://line.iptvwings.com:80/play/live.php?mac=00:1a:79:08:44:34&stream=578802&extension=ts&play_token=rUaDnqhdpj
 #EXTINF:-1 group-title="DE Allgemeine Kanäle" tvg-country="DE" channelId="98",ZDF HD
