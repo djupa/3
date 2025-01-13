@@ -1308,203 +1308,203 @@ http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:F4:41:89&stream=550704&e
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="FOR ADULTS",XXX - OH-AH TV
 http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:F4:41:89&stream=773972&extension=ts&play_token=CK6tMcJbjy
 
-#EXTINF:0,group-title="MAX" PPV 1
+#EXTINF:0 group-title="MAX",PPV 1
 http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:F4:41:89&stream=1640750&extension=ts&play_token=WPiDQXsE7w&sn2=
-#EXTINF:0,group-title="MAX" PPV 2
+#EXTINF:0 group-title="MAX",PPV 2
 http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:F4:41:89&stream=1640749&extension=ts&play_token=V5ADWG24fA&sn2=
-#EXTINF:0,group-title="MAX" PPV 3
+#EXTINF:0 group-title="MAX",PPV 3
 http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:F4:41:89&stream=1640748&extension=ts&play_token=b19NFmLjqr&sn2=
-#EXTINF:0,group-title="MAX" PPV 4
+#EXTINF:0 group-title="MAX",PPV 4
 http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:F4:41:89&stream=1640747&extension=ts&play_token=3hPz0xQFZ7&sn2=
-#EXTINF:0,group-title="MAX" PPV 5
+#EXTINF:0 group-title="MAX",PPV 5
 http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:F4:41:89&stream=1640746&extension=ts&play_token=ts7E3FauZI&sn2=
-#EXTINF:0,group-title="MAX" PPV 6
+#EXTINF:0 group-title="MAX",PPV 6
 http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:F4:41:89&stream=1640745&extension=ts&play_token=EwJdRELA9J&sn2=
-#EXTINF:0,group-title="MAX" PPV 7
+#EXTINF:0 group-title="MAX",PPV 7
 http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:F4:41:89&stream=1640744&extension=ts&play_token=M65J2ybicE&sn2=
-#EXTINF:0,group-title="MAX" PPV 8
+#EXTINF:0 group-title="MAX",PPV 8
 http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:F4:41:89&stream=1640743&extension=ts&play_token=DwhpL7q8Vd&sn2=
-#EXTINF:0,group-title="MAX" PPV 9
+#EXTINF:0 group-title="MAX",PPV 9
 http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:F4:41:89&stream=1640742&extension=ts&play_token=BwW91IrkRA&sn2=
-#EXTINF:0,group-title="MAX" PPV 10
+#EXTINF:0 group-title="MAX",PPV 10
 http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:F4:41:89&stream=1640741&extension=ts&play_token=DZCwN1pyib&sn2=
-#EXTINF:0,group-title="MAX" PPV 11
+#EXTINF:0 group-title="MAX",PPV 11
 http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:F4:41:89&stream=1640740&extension=ts&play_token=pVpq83mZ8H&sn2=
-#EXTINF:0,group-title="MAX" PPV 12
+#EXTINF:0 group-title="MAX",PPV 12
 http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:F4:41:89&stream=1640739&extension=ts&play_token=sg8hHaRSoL&sn2=
-#EXTINF:0,group-title="MAX" PPV 13
+#EXTINF:0 group-title="MAX",PPV 13
 http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:F4:41:89&stream=1640738&extension=ts&play_token=IFWesQGdZt&sn2=
-#EXTINF:0,group-title="MAX" PPV 14
+#EXTINF:0 group-title="MAX",PPV 14
 http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:F4:41:89&stream=1640737&extension=ts&play_token=mgLudhNqrZ&sn2=
-#EXTINF:0,group-title="MAX" PPV 15
+#EXTINF:0 group-title="MAX",PPV 15
 http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:F4:41:89&stream=1640736&extension=ts&play_token=vgqUy5OnA8&sn2=
-#EXTINF:0,group-title="MAX" PPV 16
+#EXTINF:0 group-title="MAX",PPV 16
 http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:F4:41:89&stream=1640735&extension=ts&play_token=pHN9mJnlLl&sn2=
-#EXTINF:0,group-title="MAX" PPV 17
+#EXTINF:0 group-title="MAX",PPV 17
 http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:F4:41:89&stream=1640734&extension=ts&play_token=ifLuwSdVvk&sn2=
-#EXTINF:0,group-title="MAX" PPV 18
+#EXTINF:0 group-title="MAX",PPV 18
 http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:F4:41:89&stream=1640733&extension=ts&play_token=XDi4vV9OKE&sn2=
-#EXTINF:0,group-title="MAX" PPV 19
+#EXTINF:0 group-title="MAX",PPV 19
 http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:F4:41:89&stream=1640732&extension=ts&play_token=0n6QJ2KjZ5&sn2=
-#EXTINF:0,group-title="MAX" PPV 20
+#EXTINF:0 group-title="MAX",PPV 20
 http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:F4:41:89&stream=1640731&extension=ts&play_token=rQ7GFNshMI&sn2=
-#EXTINF:0,group-title="MAX" PPV 21
+#EXTINF:0 group-title="MAX",PPV 21
 http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:F4:41:89&stream=1640730&extension=ts&play_token=p4MqS00Ov4&sn2=
-#EXTINF:0,group-title="MAX" PPV 22
+#EXTINF:0 group-title="MAX",PPV 22
 http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:F4:41:89&stream=1640729&extension=ts&play_token=Sus8wtaQ6Y&sn2=
-#EXTINF:0,group-title="MAX" PPV 23
+#EXTINF:0 group-title="MAX",PPV 23
 http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:F4:41:89&stream=1640728&extension=ts&play_token=JfDWJhu1NE&sn2=
-#EXTINF:0,group-title="MAX" PPV 24
+#EXTINF:0 group-title="MAX",PPV 24
 http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:F4:41:89&stream=1640727&extension=ts&play_token=uaKNdgTvCi&sn2=
-#EXTINF:0,group-title="MAX" PPV 25
+#EXTINF:0 group-title="MAX",PPV 25
 http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:F4:41:89&stream=1640726&extension=ts&play_token=TC8fjgXBw0&sn2=
-#EXTINF:0,group-title="MAX" PPV 26
+#EXTINF:0 group-title="MAX",PPV 26
 http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:F4:41:89&stream=1640725&extension=ts&play_token=1O7M18Ebjj&sn2=
-#EXTINF:0,group-title="MAX" PPV 27
+#EXTINF:0 group-title="MAX",PPV 27
 http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:F4:41:89&stream=1640724&extension=ts&play_token=caTDxfAU1O&sn2=
-#EXTINF:0,group-title="MAX" PPV 28
+#EXTINF:0 group-title="MAX",PPV 28
 http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:F4:41:89&stream=1640723&extension=ts&play_token=mGr1lN0PO0&sn2=
-#EXTINF:0,group-title="MAX" PPV 29
+#EXTINF:0 group-title="MAX",PPV 29
 http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:F4:41:89&stream=1640722&extension=ts&play_token=k2Pr5rSAG4&sn2=
-#EXTINF:0,group-title="MAX" PPV 30
+#EXTINF:0 group-title="MAX",PPV 30
 http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:F4:41:89&stream=1640721&extension=ts&play_token=vs39ALJFkN&sn2=
-#EXTINF:0,group-title="MAX" PPV 31
+#EXTINF:0 group-title="MAX",PPV 31
 http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:F4:41:89&stream=1640720&extension=ts&play_token=2k131zTcB8&sn2=
-#EXTINF:0,group-title="MAX" PPV 32
+#EXTINF:0 group-title="MAX",PPV 32
 http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:F4:41:89&stream=1640719&extension=ts&play_token=TNuoEvDgyr&sn2=
-#EXTINF:0,group-title="MAX" PPV 33
+#EXTINF:0 group-title="MAX",PPV 33
 http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:F4:41:89&stream=1640718&extension=ts&play_token=NAFoXB6RHU&sn2=
-#EXTINF:0,group-title="MAX" PPV 34
+#EXTINF:0 group-title="MAX",PPV 34
 http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:F4:41:89&stream=1640717&extension=ts&play_token=7vOufij8vp&sn2=
-#EXTINF:0,group-title="MAX" PPV 35
+#EXTINF:0 group-title="MAX",PPV 35
 http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:F4:41:89&stream=1640716&extension=ts&play_token=hEe4eRx6Wr&sn2=
-#EXTINF:0,group-title="MAX" PPV 36
+#EXTINF:0 group-title="MAX",PPV 36
 http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:F4:41:89&stream=1640715&extension=ts&play_token=hYNsHDUlmF&sn2=
-#EXTINF:0,group-title="MAX" PPV 37
+#EXTINF:0 group-title="MAX",PPV 37
 http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:F4:41:89&stream=1640714&extension=ts&play_token=7TpU2lYrQY&sn2=
-#EXTINF:0,group-title="MAX" PPV 38
+#EXTINF:0 group-title="MAX",PPV 38
 http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:F4:41:89&stream=1640713&extension=ts&play_token=XAG7FuL5V8&sn2=
-#EXTINF:0,group-title="MAX" PPV 39
+#EXTINF:0 group-title="MAX",PPV 39
 http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:F4:41:89&stream=1640712&extension=ts&play_token=qBZrfGwDXq&sn2=
-#EXTINF:0,group-title="MAX" PPV 40
+#EXTINF:0 group-title="MAX",PPV 40
 http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:F4:41:89&stream=1640711&extension=ts&play_token=twtLx9NBPM&sn2=
-#EXTINF:0,group-title="MAX" PPV 41
+#EXTINF:0 group-title="MAX",PPV 41
 http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:F4:41:89&stream=1640710&extension=ts&play_token=1SN5av03YL&sn2=
-#EXTINF:0,group-title="MAX" PPV 42
+#EXTINF:0 group-title="MAX",PPV 42
 http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:F4:41:89&stream=1640709&extension=ts&play_token=njutw7GBgT&sn2=
-#EXTINF:0,group-title="MAX" PPV 43
+#EXTINF:0 group-title="MAX",PPV 43
 http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:F4:41:89&stream=1640708&extension=ts&play_token=aXbSizJQp3&sn2=
-#EXTINF:0,group-title="MAX" PPV 44
+#EXTINF:0 group-title="MAX",PPV 44
 http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:F4:41:89&stream=1640707&extension=ts&play_token=IX62VVR8Jo&sn2=
-#EXTINF:0,group-title="MAX" PPV 45
+#EXTINF:0 group-title="MAX",PPV 45
 http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:F4:41:89&stream=1640706&extension=ts&play_token=1bmNhSO4ai&sn2=
-#EXTINF:0,group-title="MAX" PPV 46
+#EXTINF:0 group-title="MAX",PPV 46
 http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:F4:41:89&stream=1640705&extension=ts&play_token=Pr9XzAOSD1&sn2=
-#EXTINF:0,group-title="MAX" PPV 47
+#EXTINF:0 group-title="MAX",PPV 47
 http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:F4:41:89&stream=1640704&extension=ts&play_token=xfbvLkWemG&sn2=
-#EXTINF:0,group-title="MAX" PPV 48
+#EXTINF:0 group-title="MAX",PPV 48
 http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:F4:41:89&stream=1640703&extension=ts&play_token=JCxjWBM0TV&sn2=
-#EXTINF:0,group-title="MAX" PPV 49
+#EXTINF:0 group-title="MAX",PPV 49
 http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:F4:41:89&stream=1640702&extension=ts&play_token=bF8GaUSQPs&sn2=
-#EXTINF:0,group-title="MAX" PPV 50
+#EXTINF:0 group-title="MAX",PPV 50
 http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:F4:41:89&stream=1640701&extension=ts&play_token=lfPmhuMCKU&sn2=
-#EXTINF:0,group-title="MAX" PPV 51
+#EXTINF:0 group-title="MAX",PPV 51
 http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:F4:41:89&stream=1640700&extension=ts&play_token=axhvKwjEVJ&sn2=
-#EXTINF:0,group-title="MAX" PPV 52
+#EXTINF:0 group-title="MAX",PPV 52
 http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:F4:41:89&stream=1640699&extension=ts&play_token=TZBs89xl6h&sn2=
-#EXTINF:0,group-title="MAX" PPV 53
+#EXTINF:0 group-title="MAX",PPV 53
 http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:F4:41:89&stream=1640698&extension=ts&play_token=9IpG0FejPH&sn2=
-#EXTINF:0,group-title="MAX" PPV 54
+#EXTINF:0 group-title="MAX",PPV 54
 http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:F4:41:89&stream=1640697&extension=ts&play_token=4Td4plxhdb&sn2=
-#EXTINF:0,group-title="MAX" PPV 55
+#EXTINF:0 group-title="MAX",PPV 55
 http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:F4:41:89&stream=1640696&extension=ts&play_token=wN8HzD6sR5&sn2=
-#EXTINF:0,group-title="MAX" PPV 56
+#EXTINF:0 group-title="MAX",PPV 56
 http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:F4:41:89&stream=1640695&extension=ts&play_token=0HK96GYPbL&sn2=
-#EXTINF:0,group-title="MAX" PPV 57
+#EXTINF:0 group-title="MAX",PPV 57
 http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:F4:41:89&stream=1640694&extension=ts&play_token=AM3XZXFfiS&sn2=
-#EXTINF:0,group-title="MAX" PPV 58
+#EXTINF:0 group-title="MAX",PPV 58
 http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:F4:41:89&stream=1640693&extension=ts&play_token=WNdIxW1vkr&sn2=
-#EXTINF:0,group-title="MAX" PPV 59
+#EXTINF:0 group-title="MAX",PPV 59
 http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:F4:41:89&stream=1640692&extension=ts&play_token=D0YQhf99Ma&sn2=
-#EXTINF:0,group-title="MAX" PPV 60
+#EXTINF:0 group-title="MAX",PPV 60
 http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:F4:41:89&stream=1640691&extension=ts&play_token=JYFqoxto8e&sn2=
-#EXTINF:0,group-title="MAX" PPV 61
+#EXTINF:0 group-title="MAX",PPV 61
 http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:F4:41:89&stream=1640690&extension=ts&play_token=fr2kwuN42O&sn2=
-#EXTINF:0,group-title="MAX" PPV 62
+#EXTINF:0 group-title="MAX",PPV 62
 http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:F4:41:89&stream=1640689&extension=ts&play_token=myq0DiEKLy&sn2=
-#EXTINF:0,group-title="MAX" PPV 63
+#EXTINF:0 group-title="MAX",PPV 63
 http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:F4:41:89&stream=1640688&extension=ts&play_token=HnBVvpvZxt&sn2=
-#EXTINF:0,group-title="MAX" PPV 64
+#EXTINF:0 group-title="MAX",PPV 64
 http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:F4:41:89&stream=1640687&extension=ts&play_token=zZLwlGYiiS&sn2=
-#EXTINF:0,group-title="MAX" PPV 65
+#EXTINF:0 group-title="MAX",PPV 65
 http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:F4:41:89&stream=1640686&extension=ts&play_token=Ddc4uhmk7L&sn2=
-#EXTINF:0,group-title="MAX" PPV 66
+#EXTINF:0 group-title="MAX",PPV 66
 http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:F4:41:89&stream=1640685&extension=ts&play_token=iEL9UkkOKR&sn2=
-#EXTINF:0,group-title="MAX" PPV 67
+#EXTINF:0 group-title="MAX",PPV 67
 http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:F4:41:89&stream=1640684&extension=ts&play_token=Tcm91t0GQW&sn2=
-#EXTINF:0,group-title="MAX" PPV 68
+#EXTINF:0 group-title="MAX",PPV 68
 http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:F4:41:89&stream=1640683&extension=ts&play_token=PSbxY8s449&sn2=
-#EXTINF:0,group-title="MAX" PPV 69
+#EXTINF:0 group-title="MAX",PPV 69
 http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:F4:41:89&stream=1640682&extension=ts&play_token=rlAwgbfHfX&sn2=
-#EXTINF:0,group-title="MAX" PPV 70
+#EXTINF:0 group-title="MAX",PPV 70
 http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:F4:41:89&stream=1640681&extension=ts&play_token=Zu27P4mj5t&sn2=
-#EXTINF:0,group-title="MAX" PPV 71
+#EXTINF:0 group-title="MAX",PPV 71
 http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:F4:41:89&stream=1640680&extension=ts&play_token=Vw2QUQ0MS7&sn2=
-#EXTINF:0,group-title="MAX" PPV 72
+#EXTINF:0 group-title="MAX",PPV 72
 http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:F4:41:89&stream=1640679&extension=ts&play_token=H1jyvsHfB0&sn2=
-#EXTINF:0,group-title="MAX" PPV 73
+#EXTINF:0 group-title="MAX",PPV 73
 http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:F4:41:89&stream=1640678&extension=ts&play_token=SatNRYSqib&sn2=
-#EXTINF:0,group-title="MAX" PPV 74
+#EXTINF:0 group-title="MAX",PPV 74
 http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:F4:41:89&stream=1640677&extension=ts&play_token=zU2vBDuhCN&sn2=
-#EXTINF:0,group-title="MAX" PPV 75
+#EXTINF:0 group-title="MAX",PPV 75
 http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:F4:41:89&stream=1640676&extension=ts&play_token=N43JFlKVmP&sn2=
-#EXTINF:0,group-title="MAX" PPV 76
+#EXTINF:0 group-title="MAX",PPV 76
 http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:F4:41:89&stream=1640675&extension=ts&play_token=HKDfluQczR&sn2=
-#EXTINF:0,group-title="MAX" PPV 77
+#EXTINF:0 group-title="MAX",PPV 77
 http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:F4:41:89&stream=1640674&extension=ts&play_token=RqvwvnZWMS&sn2=
-#EXTINF:0,group-title="MAX" PPV 78
+#EXTINF:0 group-title="MAX",PPV 78
 http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:F4:41:89&stream=1640673&extension=ts&play_token=sJ2ir1r9Fp&sn2=
-#EXTINF:0,group-title="MAX" PPV 79
+#EXTINF:0 group-title="MAX",PPV 79
 http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:F4:41:89&stream=1640672&extension=ts&play_token=9DpHt2LZeD&sn2=
-#EXTINF:0,group-title="MAX" PPV 80
+#EXTINF:0 group-title="MAX",PPV 80
 http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:F4:41:89&stream=1640671&extension=ts&play_token=ybQoq5ub7s&sn2=
-#EXTINF:0,group-title="MAX" PPV 81
+#EXTINF:0 group-title="MAX",PPV 81
 http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:F4:41:89&stream=1640670&extension=ts&play_token=hyqgKN7czb&sn2=
-#EXTINF:0,group-title="MAX" PPV 82
+#EXTINF:0 group-title="MAX",PPV 82
 http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:F4:41:89&stream=1640669&extension=ts&play_token=sV2yfdI2iF&sn2=
-#EXTINF:0,group-title="MAX" PPV 83
+#EXTINF:0 group-title="MAX",PPV 83
 http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:F4:41:89&stream=1640668&extension=ts&play_token=c7DkIscGVW&sn2=
-#EXTINF:0,group-title="MAX" PPV 84
+#EXTINF:0 group-title="MAX",PPV 84
 http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:F4:41:89&stream=1640667&extension=ts&play_token=1KUhPjnHTu&sn2=
-#EXTINF:0,group-title="MAX" PPV 85
+#EXTINF:0 group-title="MAX",PPV 85
 http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:F4:41:89&stream=1640666&extension=ts&play_token=OoGFstuemm&sn2=
-#EXTINF:0,group-title="MAX" PPV 86
+#EXTINF:0 group-title="MAX",PPV 86
 http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:F4:41:89&stream=1640665&extension=ts&play_token=PQyuSHVcW4&sn2=
-#EXTINF:0,group-title="MAX" PPV 87
+#EXTINF:0 group-title="MAX",PPV 87
 http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:F4:41:89&stream=1640664&extension=ts&play_token=7tUrBqiTfX&sn2=
-#EXTINF:0,group-title="MAX" PPV 88
+#EXTINF:0 group-title="MAX",PPV 88
 http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:F4:41:89&stream=1640663&extension=ts&play_token=iJ5efHp9uL&sn2=
-#EXTINF:0,group-title="MAX" PPV 89
+#EXTINF:0 group-title="MAX",PPV 89
 http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:F4:41:89&stream=1640662&extension=ts&play_token=MRyfl2iP9V&sn2=
-#EXTINF:0,group-title="MAX" PPV 90
+#EXTINF:0 group-title="MAX",PPV 90
 http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:F4:41:89&stream=1640661&extension=ts&play_token=ydrzptOZqv&sn2=
-#EXTINF:0,group-title="MAX" PPV 91
+#EXTINF:0 group-title="MAX",PPV 91
 http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:F4:41:89&stream=1640660&extension=ts&play_token=ol6zeSw4kV&sn2=
-#EXTINF:0,group-title="MAX" PPV 92
+#EXTINF:0 group-title="MAX",PPV 92
 http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:F4:41:89&stream=1640659&extension=ts&play_token=8jEjBG41ei&sn2=
-#EXTINF:0,group-title="MAX" PPV 93
+#EXTINF:0 group-title="MAX",PPV 93
 http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:F4:41:89&stream=1640658&extension=ts&play_token=Ub0iUMMn2c&sn2=
-#EXTINF:0,group-title="MAX" PPV 94
+#EXTINF:0 group-title="MAX",PPV 94
 http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:F4:41:89&stream=1640657&extension=ts&play_token=du9wVfg9zY&sn2=
-#EXTINF:0,group-title="MAX" PPV 95
+#EXTINF:0 group-title="MAX",PPV 95
 http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:F4:41:89&stream=1640656&extension=ts&play_token=uOStCJ7dNZ&sn2=
-#EXTINF:0,group-title="MAX" PPV 96
+#EXTINF:0 group-title="MAX",PPV 96
 http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:F4:41:89&stream=1640655&extension=ts&play_token=D6U5o0mEma&sn2=
-#EXTINF:0,group-title="MAX" PPV 97
+#EXTINF:0 group-title="MAX",PPV 97
 http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:F4:41:89&stream=1640654&extension=ts&play_token=cTOVt91sum&sn2=
-#EXTINF:0,group-title="MAX" PPV 98
+#EXTINF:0 group-title="MAX",PPV 98
 http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:F4:41:89&stream=1640653&extension=ts&play_token=SuXe3PtJ1X&sn2=
-#EXTINF:0,group-title="MAX" PPV 99
+#EXTINF:0 group-title="MAX",PPV 99
 http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:F4:41:89&stream=1640652&extension=ts&play_token=uyQKzNFS6b&sn2=
-#EXTINF:0,group-title="MAX" PPV 100
+#EXTINF:0 group-title="MAX",PPV 100
 http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:F4:41:89&stream=1640651&extension=ts&play_token=v4kuiGiYi2&sn2=
